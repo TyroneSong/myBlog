@@ -1,10 +1,18 @@
 ---
-title: Node.js的文件系统的Api
+title: Node-js文件操作模块fs
 date: 2018-03-12 11:27:24
 tags:
+    - nodejs
 ---
-## Node.js的文件系统的Api
 
+```
+//公共引用
+var fs = require('fs'),
+path = require('path');
+```
+
+<!-- more -->
+<The rest of contents | 余下全文>
 
 
 ```
